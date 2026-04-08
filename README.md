@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5722,25:ff6d00,50:ff9800,75:ffb74d,100:ffe0b2&height=250&section=header&text=Kalindi%20Parekh&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Solutions%20Architect%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20AI%20Researcher&descSize=18&descAlignY=55&animation=twinkling" width="100%" />
 
 <!-- Animated coding GIF -->
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="350" alt="Cat Coding GIF" />
 
 <br/><br/>
 
 <!-- Typing animation - multicolor -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Data;Cloud;AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=2500&pause=800&color=FF9800&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Data;Cloud;AI" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -40,9 +40,9 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## <img src="https://media.giphy.com/media/WhoNyvVjuB88HjDK0l/giphy.gif" width="40"> About Me
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" />
+<img align="right" src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="230" />
 
 ```python
 class Kalindi:
@@ -74,7 +74,7 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+## <img src="https://media.giphy.com/media/OS9R41QuUqjnwMcqYI/giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
@@ -112,7 +112,7 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> Architecture & Focus
+## <img src="https://media.giphy.com/media/8y5pbZ3MVraFN8BNlp/giphy.gif" width="35"> Architecture & Focus
 
 <div align="center">
 
@@ -145,10 +145,10 @@ class Kalindi:
 
 | | Domain | What I Do | Stack |
 |---|---|---|---|
-| <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> | **Cloud Architecture** | Design & deploy scalable cloud-native solutions | AWS, CDK, CloudFormation |
-| <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="25"> | **Generative AI** | Build GenAI workloads on serverless infrastructure | Bedrock, Lambda, SageMaker |
-| <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> | **AI Agents** | Autonomous coding agents that architect & operate | MCP, AIDLC, CDK |
-| <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25"> | **Infrastructure as Code** | Reusable CDK constructs for AI systems | TypeScript, Python |
+| <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="25"> | **Cloud Architecture** | Design & deploy scalable cloud-native solutions | AWS, CDK, CloudFormation |
+| <img src="https://media.giphy.com/media/Bzzb92NKwUOj0FjQOd/giphy.gif" width="25"> | **Generative AI** | Build GenAI workloads on serverless infrastructure | Bedrock, Lambda, SageMaker |
+| <img src="https://media.giphy.com/media/vKH4mU0p1leRjYRyjx/giphy.gif" width="25"> | **AI Agents** | Autonomous coding agents that architect & operate | MCP, AIDLC, CDK |
+| <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" width="25"> | **Infrastructure as Code** | Reusable CDK constructs for AI systems | TypeScript, Python |
 
 <br/>
 
@@ -156,11 +156,11 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Research & Publications
+## <img src="https://media.giphy.com/media/rF0FQyoIW9GXiJVJwo/giphy.gif" width="30"> Research & Publications
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/m1DTSDg8TM0JxWwPjY/giphy.gif" width="200" />
 
 <br/><br/>
 
@@ -191,7 +191,7 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Blog Posts
+## <img src="https://media.giphy.com/media/xqjA4Wakf8qhKuVLLx/giphy.gif" width="30"> Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -213,7 +213,7 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> Featured Repositories
+## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"> Featured Repositories
 
 <div align="center">
 
@@ -262,7 +262,7 @@ class Kalindi:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
@@ -307,9 +307,9 @@ class Kalindi:
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
+## <img src="https://media.giphy.com/media/6hKL8BI8rRNrMRFtAx/giphy.gif" width="30"> Let's Connect
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/ifBColYSQBYy99Dldd/giphy.gif" width="200" />
 
 <br/><br/>
 
