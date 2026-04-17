@@ -180,10 +180,6 @@ class Kalindi:
 
 <br/>
 
-| Year | Paper | Venue | Links |
-|---|---|---|---|
-| 2025 | **Scalable Generative AI Pipelines on Serverless Cloud Infrastructure** | IEEE CLOUD | [![PDF](https://img.shields.io/badge/PDF-ff5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://example.com/paper1.pdf) [![DOI](https://img.shields.io/badge/DOI-0d1117?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.1109/CLOUD.2025.00001) |
-| 2024 | **Autonomous AI Agents for Infrastructure-as-Code: A CDK-Based Approach** | IEEE TCC | [![PDF](https://img.shields.io/badge/PDF-ff5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://example.com/paper2.pdf) [![DOI](https://img.shields.io/badge/DOI-0d1117?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.1109/TCC.2024.00002) |
 
 <br/>
 
@@ -195,17 +191,12 @@ class Kalindi:
 
 <!-- BLOG-POST-LIST:START -->
 
-| | Recent Posts | Tags |
-|---|---|---|
-| <img src="https://img.shields.io/badge/1-ff5722?style=flat-square" /> | [**Getting Started with AWS CDK for Generative AI Workloads**](https://kalindi-dev.blog/posts/example-post-1) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white) ![CDK](https://img.shields.io/badge/CDK-232F3E?style=flat-square) |
-| <img src="https://img.shields.io/badge/2-ff9800?style=flat-square" /> | [**How MCP Servers Are Changing AI-Driven Development**](https://kalindi-dev.blog/posts/example-post-2) | ![AI](https://img.shields.io/badge/AI-7B42BC?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-00629B?style=flat-square) |
-| <img src="https://img.shields.io/badge/3-ffb74d?style=flat-square" /> | [**Building Autonomous Coding Agents on AWS: Lessons Learned**](https://kalindi-dev.blog/posts/example-post-3) | ![Agents](https://img.shields.io/badge/Agents-2088FF?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) |
+
 
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
-> :bulb: **Auto-update tip:** Use the [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) GitHub Action to automatically pull your latest posts from Medium, Dev.to, Hashnode, or any RSS feed.
 
 <br/>
 
