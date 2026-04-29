@@ -48,12 +48,12 @@
 class Kalindi:
     """
     ╭──────────────────────────────────────────╮
-    │  Solutions Architect & Cloud Engineer     │
+    │  Solutions Architect    │
     │  Exploring AI x Cloud Computing          │
     ╰──────────────────────────────────────────╯
     """
     def __init__(self):
-        self.role       = "Solutions Architect & Cloud Engineer"
+        self.role       = "Solutions Architect"
         self.research   = ["Generative AI", "Cloud Infra", "AI Agents"]
         self.languages  = ["TypeScript", "Python"]
         self.cloud      = "AWS"
