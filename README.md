@@ -48,7 +48,7 @@
 class Kalindi:
     """
     ╭──────────────────────────────────────────╮
-    │  Solutions Architect    │
+    │    │
     │  Exploring AI x Cloud Computing          │
     ╰──────────────────────────────────────────╯
     """
